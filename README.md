@@ -1,5 +1,3 @@
-# bluebox-SQL-project
-
 # BlueBox Data Management System
 University of Arkansas — ISYS / Data Management Final Project  
 Team Members: Kaitlyn Le, Ruth Walters, Ben Tutka  
